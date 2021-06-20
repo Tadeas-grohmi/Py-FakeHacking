@@ -1,2 +1,4 @@
 # Py-FakeHacking
-Lmao je to pěkně gay
+Pip install:
+pip install pyfiglet
+pip install rich.progress
