@@ -1,4 +1,4 @@
 # Py-FakeHacking
-Pip install: \n
-pip install pyfiglet \n
-pip install rich.progress
+Pip install:                              
+pip install pyfiglet                       
+pip install rich.progress                                         
